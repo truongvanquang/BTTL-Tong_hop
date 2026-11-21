@@ -1,9 +1,6 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Base.Theme.StudentMVVM" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+<resources>
+    <style name="Theme.StudentMVVM" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#00897B</item>
+        <item name="colorSecondary">#26A69A</item>
     </style>
-
-    <style name="Theme.StudentMVVM" parent="Base.Theme.StudentMVVM" />
 </resources>
